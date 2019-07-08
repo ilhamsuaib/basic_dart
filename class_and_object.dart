@@ -12,7 +12,7 @@ void main() {
 
 class Person {
   /** string var with setter and getter
-   * in dart if variable start with _, it means the variable is private
+   * in dart, if variable start with _ means it is private
    * #cmiiw :D
    **/
   String _name = "Ilham";
